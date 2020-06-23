@@ -1,0 +1,3 @@
+[submodule "src/Dual-Quaternions"]
+	path = src/Dual-Quaternions
+	url = https://github.com/alirezaahmadi/Dual-Quaternions
